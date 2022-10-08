@@ -1,2 +1,1 @@
-# crud
-CREATE_READ_UPDATE_DELETE
+
